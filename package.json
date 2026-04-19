@@ -1,0 +1,14 @@
+{
+  "name": "practica-express-ies21",
+  "version": "1.0.0",
+  "description": "Práctica de rutas y enrutamiento - Aplicaciones Web 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
